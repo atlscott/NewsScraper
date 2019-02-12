@@ -24,7 +24,7 @@ Create a Heroku app in your project directory.
 Run this command in your Terminal/Bash window:
 
 
-* `heroku addons:create mongolab`
+* `heroku addons:create mongolab` 
 
 * This command will add the free mLab provision to your project.
 
